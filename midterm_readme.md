@@ -2,6 +2,13 @@
 
 ![todo](./image/todo.jpg "todo")
 
+- [x] : API V1 TODO
+- [] : API V2 TODO CRUD WITH AUTHENTICATED
+- [] : API V3 MOVIE "https://www.themoviedb.org"
+
+username: todo_user{userId}
+password: password{userId}
+
 ### Part-1 : Setup project (20pts)
 
 - [x] Create Project with Vite (5pts)
